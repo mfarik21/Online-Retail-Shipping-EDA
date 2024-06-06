@@ -52,3 +52,7 @@ This report focuses on three main objectives:
 3. Reducing operational costs by reviewing shipment expenses.
 
 This analysis aims to provide comprehensive insights and actionable strategies to improve business operations in the online retail shipping sector.
+
+## Tableau Public Dashboard and Story Links
+[Dashboard](https://public.tableau.com/app/profile/muhamad.farikhin/viz/Capstone2_17176826574850/Dashboard1?publish=yes)  
+[Story](https://public.tableau.com/app/profile/muhamad.farikhin/viz/Capstone2Story_17176829660920/Story?publish=yes)
