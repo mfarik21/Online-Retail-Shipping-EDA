@@ -37,18 +37,18 @@ Based on the average product cost (USD 210), we assume this dataset represents a
 
 - 1 USD = 16,305 IDR
 
-With around 40% of shipments being delayed, there is a clear need for the company to address these issues to stay competitive in the Indonesian furnishing market.
+With around 60% of shipments being delayed, there is a clear need for the company to address these issues to stay competitive in the Indonesian furnishing market.
 
 ## Key Questions:
-What factors influence customer satisfaction, and how can strategies enhance it?
-What causes shipment delays, and how can delivery timeliness improve?
-How can shipment operational costs be minimized?
+1. What factors influence customer satisfaction, and how can strategies enhance it?
+2. What causes shipment delays, and how can delivery timeliness improve?
+3. How can shipment operational costs be minimized?
 
-## Problem Statement
-This report focuses on three main arguments:
+## Analysis Objectives
+This report focuses on three main objectives:
 
 1. Increasing profitability through better understanding of customer satisfaction.
 2. Identifying and solving the causes of shipment delays for faster delivery.
 3. Reducing operational costs by reviewing shipment expenses.
 
-This repository aims to provide a comprehensive analysis and actionable insights for improving business operations in the online retail shipping sector.
+This analysis aims to provide comprehensive insights and actionable strategies to improve business operations in the online retail shipping sector.
